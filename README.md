@@ -6,7 +6,7 @@
 A simple library for reveal a circular progressbar with circular morph layout.
 
 <p align="start">
-  <img src="https://github.com/rrsaikat/CircularMorphProgressBar/blob/master/app/src/main/res/drawable/start.gif" height="390" width="250"/>
+  <img src="https://github.com/rrsaikat/CircularMorphProgressBarLibrary/blob/master/start.gif" height="390" width="250"/>
 </p>
 
 
@@ -124,7 +124,7 @@ For using lembda expression () -> java language must be upto 8<=
 To stop interpolation or reverse the CircularMorphLayout use this function called <b>reverse()</b>
 
 <p align="start">
-  <img src="https://github.com/rrsaikat/CircularMorphProgressBar/blob/master/app/src/main/res/drawable/stop.gif" height="390" width="250"/>
+  <img src="https://github.com/rrsaikat/CircularMorphProgressBarLibrary/blob/master/start.gif" height="390" width="250"/>
 </p>
 
 ## Example 
