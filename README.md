@@ -124,7 +124,7 @@ For using lembda expression () -> java language must be upto 8<=
 To stop interpolation or reverse the CircularMorphLayout use this function called <b>reverse()</b>
 
 <p align="start">
-  <img src="https://github.com/rrsaikat/CircularMorphProgressBarLibrary/blob/master/start.gif" height="390" width="250"/>
+  <img src="https://github.com/rrsaikat/CircularMorphProgressBarLibrary/blob/master/stop.gif" height="390" width="250"/>
 </p>
 
 ## Example 
